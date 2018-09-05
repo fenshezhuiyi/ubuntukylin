@@ -1,0 +1,12 @@
+Package: ubuntukylin-theme
+Version: 1.7.7
+Architecture: all
+Maintainer: Ubuntu Kylin Team <ubuntukylin-members@lists.launchpad.net>
+Installed-Size: 179945
+Depends: gnome-icon-theme, hicolor-icon-theme, plymouth, ubuntu-mono, fonts-droid-fallback, dconf-gsettings-backend | gsettings-backend
+Section: gnome
+Priority: optional
+Homepage: https://launchpad.net/ubuntukylin-theme
+Description: Ubuntu Kylin theme
+ This package contains the default theme for Ubuntu Kylin,
+ which is to be a flavor of Ubuntu.
